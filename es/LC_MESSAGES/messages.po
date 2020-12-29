@@ -1,71 +1,70 @@
 msgid "There is incoming mail from '{}' to {}."
-msgstr "Есть входящая почта от '{}' для {}."
+msgstr "Hay un mensaje entrante de '{}' para {}."
 
 msgid "Enable posting from this address?"
-msgstr "Разрешить постинг с этого адреса?"
+msgstr "Activar publicar desde esta dirección?"
 
 msgid "Allow once"
-msgstr "Разрешить в этот раз"
+msgstr "Рermitir una vez"
 
 msgid "Disallow once"
-msgstr "Запретить в этот раз"
+msgstr "No permitir una vez"
 
 msgid "Allow permanently"
-msgstr "Разрешить навсегда"
+msgstr "Рermitir siempre"
 
 msgid "Disable permanently"
-msgstr "Запретить навсегда"
+msgstr "Desactivar permanentemente"
 
 msgid "Preview message"
-msgstr "Предпросмотр сообщения"
+msgstr "Previsualizar mensaje"
 
 msgid "Message original"
-msgstr "Оригинал сообщения"
+msgstr "Original*"
 
 msgid "Processed early"
-msgstr "Обработано ранее"
+msgstr "Procesado temprano*"
 
 msgid "{} from now"
-msgstr "через {}"
+msgstr "{} desde ahora"
 
 msgid "{}, removal {} from now"
-msgstr "{}, удаление через {}"
+msgstr "{}, sustracción {} desde ahora"
 
 msgid "Planned to publish:"
-msgstr "Планируется опубликовать:"
+msgstr "Planificado para publicar:"
 
 msgid "Scheduled messages rejected due to limit exceeded: {}"
-msgstr "Отклонено запланированых публикаций из-за превышения лимита: {}"
-
+msgstr "Mensajes programados denegados debido a límite excedido: {}"
 msgid "Scheduled messages rejected due to syntax error:"
-msgstr "Отклонены запланированые публикации из-за неверных данных:"
+msgstr "Mensajes programados denegados debido a error de sintaxis:"
 
 msgid "Message preview from '{}' to '{}'."
-msgstr "Предпросмотр сообщения от '{}' в '{}'."
+msgstr "Previsualización de mensaje de '{}' para '{}'."
 
 msgid "permanent"
-msgstr "постоянно"
+msgstr "permanente"
 
 msgid "Posting from '{}' is enabled{}"
-msgstr "Постинг от '{}' разрешен{}"
+msgstr "La publicación desde '{}' está activada{}"
 
 msgid "Posting from '{}' is disabled{}"
-msgstr "Постинг от '{}' запрещен{}"
+msgstr "La publicación desde '{}' está desactivada{}"
 
 msgid "{} day(s)"
-msgstr "{} дн."
+msgstr "{} día(s)"
 
 msgid "{} hour(s)"
-msgstr "{} час."
+msgstr "{} hora(s)"
 
 msgid "{} min."
-msgstr "{} мин."
+msgstr "{} min."
 
 msgid "soon"
-msgstr "скоро"
+msgstr "pronto"
 
 msgid "You are reached the daily quota for attachments sent ({} attachments)."
-msgstr "Вы достигли дневной квоты отправки вложений в email ({} вложения)."
+msgstr "Ha alcanzado la cuota diaria de adjuntos enviados ({} вложения)."
 
 msgid "Daily quota will be reset after {} hours."
 msgstr "Дневная квота будет сброшена через {} часов."
